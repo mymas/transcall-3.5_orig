@@ -1,0 +1,12 @@
+ver.notNEST
+elapsed time[sec]: 1.486082
+elapsed time[sec]: 1.458217
+elapsed time[sec]: 1.442250
+elapsed time[sec]: 1.484703
+elapsed time[sec]: 1.472474
+elapsed time[sec]: 1.452105
+elapsed time[sec]: 1.457819
+elapsed time[sec]: 1.443500
+elapsed time[sec]: 1.462096
+elapsed time[sec]: 1.456279
+--------------------------
